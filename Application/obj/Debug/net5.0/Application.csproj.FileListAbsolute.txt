@@ -1,0 +1,17 @@
+F:\project\MyCode\asp-dotnet-core-react-typescript-mobx\Application\bin\Debug\net5.0\Application.deps.json
+F:\project\MyCode\asp-dotnet-core-react-typescript-mobx\Application\bin\Debug\net5.0\Application.dll
+F:\project\MyCode\asp-dotnet-core-react-typescript-mobx\Application\bin\Debug\net5.0\ref\Application.dll
+F:\project\MyCode\asp-dotnet-core-react-typescript-mobx\Application\bin\Debug\net5.0\Application.pdb
+F:\project\MyCode\asp-dotnet-core-react-typescript-mobx\Application\bin\Debug\net5.0\Domain.dll
+F:\project\MyCode\asp-dotnet-core-react-typescript-mobx\Application\bin\Debug\net5.0\Persistence.dll
+F:\project\MyCode\asp-dotnet-core-react-typescript-mobx\Application\bin\Debug\net5.0\Domain.pdb
+F:\project\MyCode\asp-dotnet-core-react-typescript-mobx\Application\bin\Debug\net5.0\Persistence.pdb
+F:\project\MyCode\asp-dotnet-core-react-typescript-mobx\Application\obj\Debug\net5.0\Application.csproj.AssemblyReference.cache
+F:\project\MyCode\asp-dotnet-core-react-typescript-mobx\Application\obj\Debug\net5.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+F:\project\MyCode\asp-dotnet-core-react-typescript-mobx\Application\obj\Debug\net5.0\Application.AssemblyInfoInputs.cache
+F:\project\MyCode\asp-dotnet-core-react-typescript-mobx\Application\obj\Debug\net5.0\Application.AssemblyInfo.cs
+F:\project\MyCode\asp-dotnet-core-react-typescript-mobx\Application\obj\Debug\net5.0\Application.csproj.CoreCompileInputs.cache
+F:\project\MyCode\asp-dotnet-core-react-typescript-mobx\Application\obj\Debug\net5.0\Application.csproj.CopyComplete
+F:\project\MyCode\asp-dotnet-core-react-typescript-mobx\Application\obj\Debug\net5.0\Application.dll
+F:\project\MyCode\asp-dotnet-core-react-typescript-mobx\Application\obj\Debug\net5.0\ref\Application.dll
+F:\project\MyCode\asp-dotnet-core-react-typescript-mobx\Application\obj\Debug\net5.0\Application.pdb

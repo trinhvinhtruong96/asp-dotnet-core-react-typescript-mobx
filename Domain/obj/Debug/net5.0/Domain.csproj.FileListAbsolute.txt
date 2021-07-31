@@ -1,0 +1,12 @@
+F:\project\MyCode\asp-dotnet-core-react-typescript-mobx\Domain\bin\Debug\net5.0\Domain.deps.json
+F:\project\MyCode\asp-dotnet-core-react-typescript-mobx\Domain\bin\Debug\net5.0\Domain.dll
+F:\project\MyCode\asp-dotnet-core-react-typescript-mobx\Domain\bin\Debug\net5.0\ref\Domain.dll
+F:\project\MyCode\asp-dotnet-core-react-typescript-mobx\Domain\bin\Debug\net5.0\Domain.pdb
+F:\project\MyCode\asp-dotnet-core-react-typescript-mobx\Domain\obj\Debug\net5.0\Domain.csproj.AssemblyReference.cache
+F:\project\MyCode\asp-dotnet-core-react-typescript-mobx\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\project\MyCode\asp-dotnet-core-react-typescript-mobx\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+F:\project\MyCode\asp-dotnet-core-react-typescript-mobx\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+F:\project\MyCode\asp-dotnet-core-react-typescript-mobx\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+F:\project\MyCode\asp-dotnet-core-react-typescript-mobx\Domain\obj\Debug\net5.0\Domain.dll
+F:\project\MyCode\asp-dotnet-core-react-typescript-mobx\Domain\obj\Debug\net5.0\ref\Domain.dll
+F:\project\MyCode\asp-dotnet-core-react-typescript-mobx\Domain\obj\Debug\net5.0\Domain.pdb
