@@ -1,7 +1,5 @@
-import React from 'react';
-import logo from './logo.svg';
 import './App.css';
-import { Button, Header } from 'semantic-ui-react';
+import { Header } from 'semantic-ui-react';
 
 function App() {
   return (
