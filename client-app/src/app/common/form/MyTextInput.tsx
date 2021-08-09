@@ -5,7 +5,8 @@ import { Form, Label } from 'semantic-ui-react';
 export interface props {
     placeholder: string;
     name: string;
-    label?: string
+    label?: string;
+    type?: string
 }
 
 const MyTextInput: React.FC<props> = (props) => {
