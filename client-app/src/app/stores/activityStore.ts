@@ -95,8 +95,6 @@ class ActivityStore {
             );
         }
 
-        console.log(activity);
-
         activity.date = new Date(activity.date!);
         this.activityRegistry.set(activity.id, activity);
     };
