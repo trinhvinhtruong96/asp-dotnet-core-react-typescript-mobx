@@ -1,3 +1,4 @@
+import { Profile } from "./../models/profile";
 import { UserFormValue } from "./../models/user";
 import { store } from "./../stores/store";
 import { Activity, ActivityFormValue } from "./../models/activity";
@@ -96,9 +97,14 @@ const Account = {
         requests.post<User>("/account/register", user),
 };
 
+const Profiles = {
+    get: (username: string) => requests.get<Profile>(`/profiles/${username}`),
+};
+
 const agent = {
     Activities,
     Account,
+    Profiles,
 };
 
 export default agent;
