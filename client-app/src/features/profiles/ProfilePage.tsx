@@ -15,7 +15,6 @@ const ProfilePage: React.FC<Props> = () => {
     const { loadingProfile, profile, loadProfile } = profileStore;
 
     useEffect(() => {
-        console.log(username);
         loadProfile(username);
     }, [loadProfile, username]);
 
