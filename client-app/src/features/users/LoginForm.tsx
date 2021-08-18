@@ -24,7 +24,7 @@ const LoginForm: React.FC<LoginFormProps> = () => {
                 <Form
                     className="ui form"
                     onSubmit={handleSubmit}
-                    autoComplete="off"
+                    // autoComplete="off"
                 >
                     <Header
                         as="h2"

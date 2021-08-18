@@ -230,6 +230,10 @@ class ActivityStore {
             this.loading = false;
         }
     };
+
+    clearSelectedActivity = () => {
+        this.selectedActivity = undefined;
+    };
 }
 
 export default ActivityStore;
