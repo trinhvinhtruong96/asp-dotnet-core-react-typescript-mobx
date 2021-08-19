@@ -10,6 +10,11 @@ export interface Props {
 }
 
 const ActivityListItemAttendee: React.FC<Props> = ({ attendees }) => {
+    const styles = {
+        borderColor: "orange",
+        borderWidth: 3,
+    };
+
     return (
         <List horizontal>
             {attendees.map((attendee) => (
@@ -25,6 +30,8 @@ const ActivityListItemAttendee: React.FC<Props> = ({ attendees }) => {
                                 size="mini"
                                 circular
                                 src={attendee.image || "/assets/user.png"}
+                                bordered
+                                style={attendee.following ? styles : null}
                             />
                         </List.Item>
                     }
