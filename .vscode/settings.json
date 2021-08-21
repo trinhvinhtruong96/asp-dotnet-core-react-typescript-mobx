@@ -1,5 +1,11 @@
 {
-    "editor.fontSize": 13,
     "editor.formatOnType": true,
-    "editor.tokenColorCustomizations": null
+    "editor.tokenColorCustomizations": null,
+    "cSpell.words": [
+        "DNQY",
+        "ELTTM",
+        "NPSE"
+    ],
+    "debug.console.fontSize": 13,
+    "editor.fontSize": 13
 }
