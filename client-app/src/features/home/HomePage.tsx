@@ -19,7 +19,7 @@ const HomePage = () => {
                     />
                     Reactivities
                 </Header>
-                {userStore.isLoggin ? (
+                {userStore.isLoggedIn ? (
                     <>
                         <Header
                             as="h2"

@@ -10,12 +10,12 @@ import TestErrors from "../../features/errors/TestError";
 import { ToastContainer } from "react-toastify";
 import NotFound from "../../features/errors/NotFound";
 import ServerError from "../../features/errors/ServerError";
-import LoginForm from "../../features/users/LoginForm";
 import { useStore } from "../stores/store";
 import { useEffect } from "react";
 import LoadingComponent from "./LoadingComponent";
 import ModalContainer from "../common/modals/ModalContainer";
 import ProfilePage from "../../features/profiles/ProfilePage";
+import PrivateRoute from "./PrivateRoute";
 
 function App() {
     const location = useLocation();
@@ -44,21 +44,21 @@ function App() {
                         <NavBar />
                         <Container style={{ marginTop: "7em" }}>
                             <Switch>
-                                <Route
+                                <PrivateRoute
                                     exact
                                     path="/activities"
                                     component={ActivityDashboard}
                                 />
-                                <Route
+                                <PrivateRoute
                                     path="/activities/:id"
                                     component={ActivityDetails}
                                 />
-                                <Route
+                                <PrivateRoute
                                     key={location.key}
                                     path={["/createActivity", "/manage/:id"]}
                                     component={ActivityForm}
                                 />
-                                <Route
+                                <PrivateRoute
                                     path="/profiles/:username"
                                     component={ProfilePage}
                                 />
@@ -67,7 +67,6 @@ function App() {
                                     path="/server-error"
                                     component={ServerError}
                                 />
-                                <Route path="/login" component={LoginForm} />
                                 <Route component={NotFound} />
                             </Switch>
                         </Container>
