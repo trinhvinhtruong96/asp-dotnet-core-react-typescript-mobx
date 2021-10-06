@@ -1,3 +1,3 @@
 # asp-dotnet-core-react-typescript-mobx
-userName: truongdeptrai
+userName: truong@gmail.com
 password: Pa$$w0rd
